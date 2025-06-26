@@ -1,2 +1,2 @@
-![GitHub Statistics](https://github-readme-stats-gamma-khaki-27.vercel.app/api/?username=Malizma333&theme=dark&hide_rank=true&show_icons=true&include_all_commits=true&custom_title=Overall%20Stats&show=reviews,prs_merged&card_width=800&hide=stars)
-![Most Used Languages](https://github-readme-stats-gamma-khaki-27.vercel.app/api/top-langs/?username=Malizma333&theme=dark&hide=HTML,CSS&exclude_repo=tigerverse-2025,MEGAMINER-2024-Flattened&card_width=800&size_weight=0.5&count_weight=0.5)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api/?username=Malizma333&theme=dark&hide_rank=true&show_icons=true&include_all_commits=true&custom_title=Overall%20Stats&show=reviews,prs_merged&card_width=800&hide=stars)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malizma333&theme=dark&card_width=800&hide=HTML,CSS,ShaderLab,HLSL,Mathematica,Ruby)
